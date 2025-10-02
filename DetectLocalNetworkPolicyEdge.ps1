@@ -1,0 +1,1 @@
+﻿Get-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\Edge" | Select-Object LocalNetworkAccessAllowedForUrls

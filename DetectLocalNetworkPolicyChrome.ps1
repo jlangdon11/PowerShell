@@ -1,0 +1,1 @@
+﻿Get-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Google\Chrome" | Select-Object LocalNetworkAccessAllowedForUrls
