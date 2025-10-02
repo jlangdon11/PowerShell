@@ -1,0 +1,1 @@
+﻿Set-Mailbox -Identity "Jordan Langdon" -EmailAddresses @{remove="smtp:jordanlangdon@iptamerica.com"}

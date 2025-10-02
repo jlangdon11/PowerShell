@@ -1,0 +1,1 @@
+﻿Remove-Mailbox -Identity "John Rodman"

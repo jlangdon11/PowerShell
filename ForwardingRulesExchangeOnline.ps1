@@ -1,0 +1,1 @@
+﻿Get-Mailbox | select UserPrincipalName,ForwardingSmtpAddress,DeliverToMailboxAndForward | Export-csv c:\temp\Forwarding.csv -NoTypeInformation
