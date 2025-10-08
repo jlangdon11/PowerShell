@@ -1,0 +1,1 @@
+Get-VMSnapshot -VMName "ComputerName"
